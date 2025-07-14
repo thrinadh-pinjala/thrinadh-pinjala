@@ -19,7 +19,7 @@
 ### 🛠️ Technical Skills
 
 **Languages:**  
-Python | Java | C++ | C | GoLang | JavaScript | HTML/CSS | SQL
+Python | Java | GoLang | JavaScript | HTML/CSS | SQL
 
 **Frameworks & Libraries:**  
 OpenCV | TensorFlow | Keras | Scikit-learn | SciPy | Flask | Pandas | NumPy | ReactJS | ExpressJS | NodeJS
